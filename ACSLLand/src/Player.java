@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//can you see my changes
 class Player {
 	private int location=0;
 	public void moveLocation(int amount){
